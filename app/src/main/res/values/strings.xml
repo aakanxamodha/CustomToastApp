@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom Toast</string>
+    <string-array name="bank_names">
+        <item>--Select--</item>
+        <item>SBI</item>
+        <item>ICICI</item>
+        <item>HDFC</item>
+        <item>BOB</item>
+    </string-array>
+</resources>
